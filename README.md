@@ -1,1 +1,3 @@
-# ar_pizzarat
+# AR Pizza Rat
+
+[View in AR](index.html)
